@@ -30,6 +30,9 @@ span{
     grid-template-columns: repeat(4, 1fr);
     gap: 3rem;
 }
+.card-selected{
+    border: 0.2rem solid var(--border-color);
+}
 
 .card{
     width: 10rem;
